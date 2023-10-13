@@ -1,0 +1,8 @@
+.bookmark:not(:last-child) {
+        border-bottom: 1px solid white;
+        margin-bottom: 1.5rem;
+}
+
+.plus-button:hover {
+    transform: translateY(-0.3rem) scale(1.5);
+}
